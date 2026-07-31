@@ -2,7 +2,7 @@ import streamlit as st
 
 import pandas as pd
 
-st.title(' 🤖 Machine Learning App')
+st.title('🌾 LEVERAGING MACHINE LEARNING FOR PRECISION CLASSIFICATION AND PHENOTYPIC PREDICTION OF GHANAIAN RICE GERMPLASM')
 
 st.write('This is machine learning app')
 
