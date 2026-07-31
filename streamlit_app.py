@@ -23,8 +23,8 @@ Y = df.Accession
 Y
 
 st.write('**Model Results**')
-df = pd.read_csv('RiceML/Model_Training_Results.csv')
-df
+Z = pd.read_csv('https://github.com/cabled510/RICE-GERMPLASM-CLASSIFICATION-AND-PREDICTION-APP/raw/refs/heads/master/RiceML/Model_Training_Results.csv')
+Z
 
 
 
