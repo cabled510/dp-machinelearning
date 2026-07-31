@@ -18,9 +18,6 @@ st.write('**X**')
   X = df.drop('Accession', axis=1)
   X
 
-st.write('**Y**')
-  Y = df.Accession
-  Y
 
 
 
