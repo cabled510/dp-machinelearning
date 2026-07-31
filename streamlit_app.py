@@ -14,3 +14,10 @@ with st.expander('Data'):
 
 
 
+st.write('**Full Dataset**')
+  X  = pd.read_csv('https://raw.githubusercontent.com/cabled510/RICE-GERMPLASM-CLASSIFICATION-AND-PREDICTION-APP/refs/heads/master/RiceML/Full%20Dataset.csv')
+  X
+
+
+
+
