@@ -23,8 +23,8 @@ Y = df.Accession
 Y
 
 st.write('**Model Results**')
-Z = pd.read_csv('RiceML/Model_Training_Results.csv')
-Z
+df = pd.read_csv('RiceML/Model_Training_Results.csv')
+df
 
 
 
