@@ -13,6 +13,6 @@ with st.expander('Data'):
   df
 
 st.write('**X**')
-X = df.Accession
+X = df.drop('Target_Accession', axis=1)
 X
 
