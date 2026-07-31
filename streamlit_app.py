@@ -12,3 +12,7 @@ with st.expander('Data'):
   df  = pd.read_csv('https://raw.githubusercontent.com/cabled510/RICE-GERMPLASM-CLASSIFICATION-AND-PREDICTION-APP/refs/heads/master/RiceML/Preprocessed_Rice_Data.csv')
   df
 
+st.write('**X**')
+X = df.Accession
+X
+
