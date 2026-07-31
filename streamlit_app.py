@@ -16,3 +16,7 @@ st.write('**X**')
 X = df.drop('Target_Accession', axis=1)
 X
 
+st.write('**Y**')
+Y = df.Target_Accession
+Y
+
